@@ -1,0 +1,30 @@
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.exe
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.deps.json
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.runtimeconfig.json
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.dll
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.pdb
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.csproj.AssemblyReference.cache
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.AssemblyInfoInputs.cache
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.AssemblyInfo.cs
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.csproj.CoreCompileInputs.cache
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.dll
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\refint\ReizTechHM.dll
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.pdb
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.genruntimeconfig.cache
+C:\Users\Marijus\OneDrive\Stalinis kompiuteris\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ref\ReizTechHM.dll
+D:\Darbas\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.exe
+D:\Darbas\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.deps.json
+D:\Darbas\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.runtimeconfig.json
+D:\Darbas\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.dll
+D:\Darbas\Help\ReizTechHM\ReizTechHM\bin\Debug\net6.0\ReizTechHM.pdb
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.csproj.AssemblyReference.cache
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.AssemblyInfoInputs.cache
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.AssemblyInfo.cs
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.csproj.CoreCompileInputs.cache
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.dll
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\refint\ReizTechHM.dll
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.pdb
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ReizTechHM.genruntimeconfig.cache
+D:\Darbas\Help\ReizTechHM\ReizTechHM\obj\Debug\net6.0\ref\ReizTechHM.dll
